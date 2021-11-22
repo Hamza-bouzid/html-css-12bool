@@ -1,0 +1,33 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #000;
+}
+
+.container-xl {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+[class*="col-"] {
+  height: 80px;
+  border: 1px solid black;
+}
+
+.bc-yellow {
+  background-color: #ede513;
+}
+.bc-black {
+  background-color: #000;
+}
+.bc-blue {
+  background-color: #1cc0db;
+}
+
+.bc-white {
+  background-color: #fff;
+}
