@@ -1,0 +1,32 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+[class*="col-"] {
+  background-color: #006cfa;
+  color: #fff;
+  min-height: 50px;
+  text-align: center;
+  line-height: 50px;
+  vertical-align: middle;
+  border: 1px solid #fff;
+}
+
+.ht-100 {
+  height: 100px;
+}
+
+.p-12 {
+  padding: 12px;
+}
+
+.bc-green {
+  background-color: #00e165;
+  border: 1px solid #006cfa;
+}
+
+.mb-20 {
+  margin-bottom: 20px;
+}
