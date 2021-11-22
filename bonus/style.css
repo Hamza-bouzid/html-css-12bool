@@ -15,7 +15,6 @@ body {
 
 [class*="col-"] {
   height: 80px;
-  border: 1px solid black;
 }
 
 .bc-yellow {
